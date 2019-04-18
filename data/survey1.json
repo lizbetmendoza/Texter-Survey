@@ -1,0 +1,10 @@
+[{ 
+    "number": 1, 
+    "details": "How long have you used our products/service?\na) Less than 6 months\nb) 1 year to less than 3 years\nc) 3 years to less than 5 years"
+},{
+    "number": 2,
+    "details": "How would you rate your overall satisfaction with us?\na) Very satisfied\nb) Somewhat satisfied\nc) Neutral"
+},{
+    "number": 3,
+    "details": "How likely is it that you would recommend us to a friend/colleague?\na)Very likely\nb) Somewhat likely\nc) Neutral"
+}]

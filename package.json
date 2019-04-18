@@ -1,0 +1,21 @@
+{
+  "name": "sms",
+  "version": "1.0.0",
+  "description": "LQ sms server with integration with twilio",
+  "main": "server.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.17.2",
+    "twilio": "^3.6.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "serve": "latest",
+    "twilio": "^3.6.1"
+  }
+}
